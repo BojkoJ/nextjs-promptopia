@@ -5,7 +5,7 @@ import Provider from '@components/Provider'
 
 
 export const metadata = {
-    title: "Proptopia",
+    title: "Promptopia",
     description: "Discovert & Share AI Prompts"
 }
 
