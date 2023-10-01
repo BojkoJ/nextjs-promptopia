@@ -1,4 +1,4 @@
-# Next.js Project - learned by Yt crash course - channel Javascript Mastery
+# Next.js Project - Promptopia
 ## How to run
 First, run the development server:
 ```bash
